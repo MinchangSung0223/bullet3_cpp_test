@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/App_HelloWorld.dir/HelloWorld.o  -o App_HelloWorld   -L/usr/local/lib  -lBulletDynamics -lBulletCollision -lLinearMath /usr/local/lib/libBulletDynamics.a /usr/local/lib/libBulletCollision.a /usr/local/lib/libLinearMath.a /usr/local/lib/libBulletSoftBody.a 
